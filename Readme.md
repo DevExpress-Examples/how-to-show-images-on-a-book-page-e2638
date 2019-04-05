@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/SilverlightApplication3/MainPage.xaml) (VB: [MainPage.xaml](./VB/SilverlightApplication3/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/SilverlightApplication3/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/SilverlightApplication3/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/SilverlightApplication3/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/SilverlightApplication3/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to show images on a Book page
 
